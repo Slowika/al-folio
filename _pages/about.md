@@ -31,4 +31,6 @@ Hello, thanks for visiting my website! My name is Agnieszka (Aga) and I am a fir
 
 I received my MSc at the University of Edinburgh where I worked with the [BayesWatch group](https://www.bayeswatch.com) on relational reasoning with neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my final year I was investigating extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com) (currently at DeepMind).
 
+In the meantime, I had a chance to intern in data science at IBM, Architech and Barclays UK.
+
 <p style="font-size:10px;"> Contact: agnieszka [dot] slowik [at] cl [dot] cam [dot] ac [dot] uk </p>
