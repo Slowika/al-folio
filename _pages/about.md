@@ -26,6 +26,6 @@ Hello, thanks for visiting my website! My name is Agnieszka (Aga) and I am a fir
 
 **Until February 2020 I am interning at Mila AI Institute of Quebec under supervision of [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/). I work on compositional generalisation in multi-agent systems.**
 
-I received my MSc at the University of Edinburgh where I worked with the [BayesWatch group](https://www.bayeswatch.com) on relational reasoning with neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my final year I was investigating extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com) as a part of [GMUM](http://gmum.net).
+I received my MSc at the University of Edinburgh where I worked with the [BayesWatch group](https://www.bayeswatch.com) on relational reasoning with neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my final year I was investigating extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com) (currently at DeepMind).
 
-Contact: fullfirstname.surname [at] cl.cam.ac.uk
+Contact: **agnieszka.slowik [at] cl.cam.ac.uk**

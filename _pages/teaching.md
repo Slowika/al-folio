@@ -30,7 +30,7 @@ description:
 
 **Programming Tutor** @ [Women in Technology (Poland)](https://womenintechnology.pl)
 
-*Introduction to machine learning*, *Introduction to data science*, *Python programming*
+*Introduction to machine learning*, *Python programming*
 
 
 
