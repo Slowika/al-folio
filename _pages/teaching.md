@@ -20,6 +20,12 @@ description:
 **Ticker**
 *Lent'19*
 
+#### [Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge)
+**Lecturer**
+*Summer'19*
+[Slides](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)
+
+
 ### In the previous life:
 
 **Programming Tutor** @ [Women in Technology (Poland)](https://womenintechnology.pl)
