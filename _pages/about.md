@@ -11,10 +11,13 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Office: FC14</p>
-    <p>William Gates Building</p>
-    <p>15 JJ Thomson Ave</p>
-    <p>Cambridge CB3 0FD</p>
+    <p style="font-size:10px;">Office: FC14</p>
+    <p style="font-size:10px;">Artificial Intelligence Group</p>
+    <p style="font-size:10px;">Department of Computer Science and Technology</p>
+    <p style="font-size:10px;">University of Cambridge</p>
+    <p style="font-size:10px;">15 JJ Thomson Avenue</p>
+    <p style="font-size:10px;">Cambridge CB3 0FD</p>
+    <p style="font-size:10px;">United Kingdom</p>
 
 
 
@@ -28,4 +31,4 @@ Hello, thanks for visiting my website! My name is Agnieszka (Aga) and I am a fir
 
 I received my MSc at the University of Edinburgh where I worked with the [BayesWatch group](https://www.bayeswatch.com) on relational reasoning with neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my final year I was investigating extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com) (currently at DeepMind).
 
-Contact: **agnieszka.slowik [at] cl.cam.ac.uk**
+<p style="font-size:10px;"> Contact: agnieszka [dot] slowik [at] cl [dot] cam [dot] ac [dot] uk </p>
