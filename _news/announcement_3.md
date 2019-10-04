@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2019-05 
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I supervised the [Artificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/) course for the Selwyn and Robinson colleges.
+
