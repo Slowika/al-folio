@@ -16,11 +16,13 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
+scholar_userid: BPqK1l0AAAAJ # your Google Scholar ID
+dblp_id: s/Slowik:Agnieszka
+researchgate_username: Agnieszka_Slowik7
 github_username: Slowika # your GitHub user name
 twitter_username: slowiika # your Twitter handle
 linkedin_username: aslowik # your LinkedIn user name
-scholar_userid: BPqK1l0AAAAJ # your Google Scholar ID
-dblp_id: s/Slowik:Agnieszka
+
 #contact_note: >
 
 
