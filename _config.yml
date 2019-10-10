@@ -20,8 +20,9 @@ github_username: Slowika # your GitHub user name
 twitter_username: slowiika # your Twitter handle
 linkedin_username: aslowik # your LinkedIn user name
 scholar_userid: BPqK1l0AAAAJ # your Google Scholar ID
-orcid_id: 0000-0001-7113-4098
-
+researchgate_username: Agnieszka_Slowik7
+dblp_id: s/Slowik:Agnieszka
+medium_username: agaslowik # your Medium username
 #contact_note: >
 
 
@@ -47,8 +48,8 @@ text:
 disqus_shortname:  # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
-enable_anchorjs:    false
+show_social_icons:  true
+enable_anchorjs:    true
 enable_katex:       true
 
 # -----------------------------------------------------------------------------
