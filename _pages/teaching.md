@@ -31,8 +31,3 @@ description:
 **Programming Tutor** @ [Women in Technology (Poland)](https://womenintechnology.pl)
 
 *Introduction to machine learning*, *Python programming*
-
-[Dive into adventure called Data Science - an interview with Agnieszka Słowik](https://womenintechnology.pl/2016/12/dive-into-adventure-called-data-science-an-interview-with-agnieszka-slowik/)
-
-
-
