@@ -17,6 +17,7 @@ description:
 
 #### Scholarships and awards
 
++ *Travel award at the [Women Transforming Tech](https://events.quantumblack.com/womentransformingtech?gz=bfbe4e1b092031e5&guest-access-hash=NDU3NDg3MDE4fDI2OTkzOTg5NXwxNTczNDkwMTEzO2FkMWZjYTBiYzU4MjQ5NjFjNGIyYWQ0ZjRhODc2ODA1MWUzODUwMGRlOTM0YWRkZGEwYzVhZjc1YmI5NmQ3OTk=) event in Boston, November 2019*
 + *Travel & registration award at NeurIPS 2019*
 + *EPSRC Doctoral Training studentship 2019-2022*
 + *Travel & registration award at NeurIPS 2018 (volunteer, presenter at WiML)*
