@@ -25,7 +25,7 @@ news: true
 social: true
 ---
 
-Hi, thanks for visiting my website! My name is Agnieszka (Aga) and I am a first-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge, jointly-supervised by [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/). I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk).
+Hi, thanks for visiting my website! My name is Agnieszka (Aga) and I am a first-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge, jointly-supervised by [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/). I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk). Starting from November 2019, I serve as the representative of the AI research group at the [Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum).
 
 **Until February 2020 I am interning at Mila AI Institute of Quebec under supervision of [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/). I work on compositional generalisation in multi-agent systems.**
 
