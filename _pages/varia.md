@@ -5,7 +5,7 @@ title: Varia
 description: 
 ---
 
-## [CV](https://www.dropbox.com/s/rbmtje3gukq8x95/academic_cv_updated.pdf?dl=0)
+### [CV](https://www.dropbox.com/s/rbmtje3gukq8x95/academic_cv_updated.pdf?dl=0)
 
 #### Reviewer for the following venues:
 
