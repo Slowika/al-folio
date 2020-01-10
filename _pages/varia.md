@@ -9,16 +9,16 @@ description:
 
 #### Reviewer for the following venues:
 
++ *[AI for Earth Sciences Workshop at ICLR 2020 ](https://ai4earthscience.github.io/iclr-2020-workshop/)*
 + *[International Conference on Machine Learning (ICML) 2020](https://icml.cc)*
-+ *[Graph Representation Learning workshop at NeurIPS 2019](https://grlearning.github.io/pcom/)*
++ *[Graph Representation Learning Workshop at NeurIPS 2019](https://grlearning.github.io/pcom/)*
 + *[13th Women in Machine Learning Workshop (WiML 2018), co-located with NeurIPS 2018](https://wimlworkshop.org/2018/)*
 + *[11th Women in Machine Learning Workshop (WiML 2016), co-located with NIPS 2016](https://wimlworkshop.org/2016/)*
 
 #### Outreach 
 
-
-+ [Dive into adventure called Data Science - an interview with Agnieszka Słowik](https://womenintechnology.pl/2016/12/dive-into-adventure-called-data-science-an-interview-with-agnieszka-slowik/)
 + [Japan Empowerment Programme](https://www.dropbox.com/s/n1sxa71xo8pk7uf/japan-application-agnieszka-slowik-final.pdf?dl=0)
++ [Dive into adventure called Data Science - an interview with Agnieszka Słowik](https://womenintechnology.pl/2016/12/dive-into-adventure-called-data-science-an-interview-with-agnieszka-slowik/)
 
 #### Scholarships and awards
 
