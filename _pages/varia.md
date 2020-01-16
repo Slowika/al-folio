@@ -9,6 +9,8 @@ description:
 
 #### Reviewer for the following venues:
 
++ *[Oxbridge Women in Computer Science Conference 2020](https://oxbridgewomenincs.wixsite.com/2020)*
++ *[AIDBEI 2020: AAAI 2020 Diversity Workshop: Mentoring Students from Underserved Populations](http://kdd.cs.ksu.edu/Workshops/AAAI-2020/)*
 + *[AI for Earth Sciences Workshop at ICLR 2020 ](https://ai4earthscience.github.io/iclr-2020-workshop/)*
 + *[International Conference on Machine Learning (ICML) 2020](https://icml.cc)*
 + *[Graph Representation Learning Workshop at NeurIPS 2019](https://grlearning.github.io/pcom/)*
