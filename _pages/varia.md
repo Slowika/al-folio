@@ -9,19 +9,10 @@ description:
 
 #### Teaching experience
 
-+ [Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/)
-**Supervisor**
-
-+ [Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/)
-**Lab assistant**
-
-+ [Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge)
-**Lecturer**
-[Slides](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)
-
-+ Programming Tutor** @ [Women in Technology (Poland)](https://womenintechnology.pl)
-*Introduction to machine learning*, *Python programming*
-
++ **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/)
++ **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/)
++ **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [Slides](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)
++ **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl)
 
 #### Reviewer for the following venues:
 
