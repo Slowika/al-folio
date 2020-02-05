@@ -4,7 +4,9 @@ permalink: /publications/
 title: Publications
 ---
 
-* **Słowik<sup>\*</sup> A.**, Gupta<sup>\*</sup> A., Hamilton W. L., Jamnik M., Holden S. B. (2019) **Towards Graph Representation Learning in Emergent Communication**. *Workshop on Reinforcement Learning in Games at AAAI 2020.*.
+* **Słowik<sup>\*</sup> A.**, Gupta<sup>\*</sup> A., Hamilton W. L., Jamnik M., Holden S. B., Pal C. (2020) **Exploring Structural Inductive Biases in Emergent Communication**. *Submitted*.
+
+* **Słowik<sup>\*</sup> A.**, Gupta<sup>\*</sup> A., Hamilton W. L., Jamnik M., Holden S. B. (2020) **Towards Graph Representation Learning in Emergent Communication**. *Workshop on Reinforcement Learning in Games at AAAI 2020.*.
 
 * **Słowik A.**, Mangla C., Jamnik M., Holden S. B., Paulson L. C. (2019) **Bayesian Optimisation for Premise Selection in Automated Theorem Proving**. *Student Abstract at AAAI 2020*. 
 
