@@ -9,10 +9,17 @@ description:
 
 #### Teaching experience
 
++ **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)
 + **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/)
 + **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/)
 + **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[Slides](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)]
 + **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl)
+
+#### Panelist
++ *[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)*
+
+#### Program Chair
++ *[AIDBEI 2020: AAAI 2020 Diversity Workshop: Mentoring Students from Underserved Populations](http://kdd.cs.ksu.edu/Workshops/AAAI-2020/)*
 
 #### Reviewer for the following venues:
 
