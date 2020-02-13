@@ -33,6 +33,7 @@ description:
 
 #### Outreach 
 
++ [Blog post at the Lucy Cavendish College website](https://www.lucy.cam.ac.uk/blog/agnieszka-slowik-ai-neural-networks-and-my-career-woman-science)
 + [Women in STEM: Agnieszka Słowik](https://www.cam.ac.uk/research/news/women-in-stem-agnieszka-slowik?fbclid=IwAR25u_RhAwmsgDPtI72mkG-yApxoLH30dX9QeHKi9XohHxaytBdU-cM4jEc)
 + [Japan Empowerment Programme](https://www.dropbox.com/s/n1sxa71xo8pk7uf/japan-application-agnieszka-slowik-final.pdf?dl=0)
 + [Dive into adventure called Data Science - an interview with Agnieszka Słowik](https://womenintechnology.pl/2016/12/dive-into-adventure-called-data-science-an-interview-with-agnieszka-slowik/)
