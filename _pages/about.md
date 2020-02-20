@@ -29,7 +29,7 @@ Hi, thanks for visiting my website! My name is Agnieszka (Aga) and I am a second
 
 I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk). Starting from November 2019, I serve as the representative of the AI research group at the [Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum). My supervisors are [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/).
 
-**Until February 2020 I interned at Mila under supervision of [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/). I worked on [compositional generalisation in multi-agent communication](https://arxiv.org/abs/2002.01335). In March 2020, I am starting an internship under supervision of [Anirudh Goyal](https://anirudh9119.github.io) and [Yoshua Bengio](https://yoshuabengio.org).**
+**Until February 2020 I interned at Mila under supervision of [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/). I worked on [compositional generalization in multi-agent communication](https://arxiv.org/abs/2002.01335). In March 2020, I am starting an internship under supervision of [Anirudh Goyal](https://anirudh9119.github.io) and [Yoshua Bengio](https://yoshuabengio.org).**
 
 I received my MSc (with Distinction) at the University of Edinburgh where I worked with the [BayesWatch group](https://www.bayeswatch.com) on relational reasoning with neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my final year I was investigating extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com) (currently at DeepMind).
 
