@@ -35,4 +35,6 @@ I received my MSc (with Distinction) at the University of Edinburgh where I work
 
 In the meantime, I had an opportunity to intern in data science at IBM, Architech and Barclays UK.
 
+I'm a traveller at heart: visited 35 countries and lived in five so far. On that note, I had a chance to learn four foreign languages, which allows me to throw awkward sentences in attempts at icebreaking to this day. I also like reading and will try to [keep track of the books I recently enjoyed](https://www.instagram.com/reading_challenge/).
+
 <p style="font-size:10px;"> Contact: agnieszka [dot] slowik [at] cl [dot] cam [dot] ac [dot] uk </p>
