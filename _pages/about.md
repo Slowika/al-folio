@@ -25,7 +25,7 @@ news: true
 social: true
 ---
 
-Hi, thanks for visiting my website! My name is Agnieszka (Aga) and I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge. Broadly, I am interested in systematic generalization and compositionality.
+Hi, thanks for visiting my website! My name is Agnieszka (Aga) and I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge. Broadly, I am interested in systematic generalization and compositionality in deep learning.
 
 I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk). Starting from November 2019, I serve as the representative of the AI research group at the [Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum). My supervisors are [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/).
 
