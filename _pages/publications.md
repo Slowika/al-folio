@@ -16,9 +16,7 @@ title: Publications
 
 * **Słowik<sup>\*</sup> A.**, Gupta<sup>\*</sup> A., Hamilton W. L., Jamnik M., Holden S. B. (2020) **Towards Graph Representation Learning in Emergent Communication**. *Workshop on Reinforcement Learning in Games at AAAI 2020.* [arxiv](https://arxiv.org/pdf/2001.09063.pdf)
 
-* **Słowik A.**, Mangla C., Jamnik M., Holden S. B., Paulson L. C. (2019) **Bayesian Optimisation for Heuristic Configuration in Automated Theorem Proving**. *The 6th Vampire Workshop at The 22nd International Conference on Theory and Applications of Satisfiability Testing (SAT 2019)*. [proceedings](https://easychair.org/publications/paper/K7Zd) 
-
-Presented as a [talk](https://www.dropbox.com/s/f3jb7z7bqrv2b3v/bo_lisbon.pdf?dl=0) at SAT 2019 and as a [poster](https://www.dropbox.com/s/h374c7zko81zrmh/BO_poster-2.pdf?dl=0) at AAAI 2020 (Student Abstract track).
+* **Słowik A.**, Mangla C., Jamnik M., Holden S. B., Paulson L. C. (2019) **Bayesian Optimisation for Heuristic Configuration in Automated Theorem Proving**. *The 6th Vampire Workshop at The 22nd International Conference on Theory and Applications of Satisfiability Testing (SAT 2019), The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020). Presented as a [talk](https://www.dropbox.com/s/f3jb7z7bqrv2b3v/bo_lisbon.pdf?dl=0) at SAT 2019 (Workshop track) and as a [poster](https://www.dropbox.com/s/h374c7zko81zrmh/BO_poster-2.pdf?dl=0) at AAAI 2020 (Student Abstract track).* [proceedings](https://easychair.org/publications/paper/K7Zd) 
 
 * Antoniou A., **Słowik A.**, Crowley E. J., Storkey A. J. (2018) **Dilated DenseNets for Relational Reasoning**. *Women in Machine Learning Workshop at NeurIPS 2018 (WiML 2018), Theoretical Foundations of Machine Learning (TFML 2019), Transylvanian Machine Learning Summer School (TMLSS)*. [arXiv](https://arxiv.org/pdf/1811.00410.pdf) [slides](https://www.dropbox.com/s/agauohqy2gw436n/AI_lunch.pdf?dl=0) [poster](https://www.dropbox.com/s/8wucj3reyj2anlp/dil_poster.pdf?dl=0)
 
