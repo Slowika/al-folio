@@ -31,7 +31,7 @@ description:
 #### Organisation of scientific events
 
 + **Organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland.
-+ **Volunteer** @[NeurIPS 2019](https://nips.cc/Conferences/2019) and [NeurIPS 2018](https://nips.cc/Conferences/2018)*
++ **Volunteer** @[NeurIPS 2019](https://nips.cc/Conferences/2019) and [NeurIPS 2018](https://nips.cc/Conferences/2018).
 
 #### Community service
 
