@@ -15,16 +15,10 @@ description:
 + **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[Slides](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)]
 + **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl)
 
-#### Panelist
-+ *[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)*
-
-#### Program Chair
-+ *[AIDBEI 2020: AAAI 2020 Diversity Workshop: Mentoring Students from Underserved Populations](http://kdd.cs.ksu.edu/Workshops/AAAI-2020/)*
-
 #### Reviewer
 
 ##### Conferences
-+ *[International Conference on Machine Learning (ICML) 2020](https://icml.cc)*
++ *[International Conference on Machine Learning  2020 (ICML 2020)](https://icml.cc)*
 + *[Oxbridge Women in Computer Science Conference 2020](https://oxbridgewomenincs.wixsite.com/2020)*
 
 ##### Workshops
@@ -33,6 +27,22 @@ description:
 + *[Graph Representation Learning Workshop at NeurIPS 2019](https://grlearning.github.io/pcom/)*
 + *[13th Women in Machine Learning Workshop (WiML 2018), co-located with NeurIPS 2018](https://wimlworkshop.org/2018/)*
 + *[11th Women in Machine Learning Workshop (WiML 2016), co-located with NIPS 2016](https://wimlworkshop.org/2016/)*
+
+#### Organisation of scientific events
+
++ **Organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland.
++ **Volunteer** @[NeurIPS 2019](https://nips.cc/Conferences/2019) and [NeurIPS 2018](https://nips.cc/Conferences/2018)*
+
+#### Community service
+
++ **Representant of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum)
++ **Vice-president** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/)
+
+#### Panelist
++ *[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)*
+
+#### Program Chair
++ *[AIDBEI 2020: AAAI 2020 Diversity Workshop: Mentoring Students from Underserved Populations](http://kdd.cs.ksu.edu/Workshops/AAAI-2020/)*
 
 #### Outreach and writing
 
@@ -43,14 +53,13 @@ description:
 
 #### Trainings and scholarships
 
-+ *A scholarship to attend the [Women Transforming Tech](https://events.quantumblack.com/womentransformingtech?gz=bfbe4e1b092031e5&guest-access-hash=NDU3NDg3MDE4fDI2OTkzOTg5NXwxNTczNDkwMTEzO2FkMWZjYTBiYzU4MjQ5NjFjNGIyYWQ0ZjRhODc2ODA1MWUzODUwMGRlOTM0YWRkZGEwYzVhZjc1YmI5NmQ3OTk=) event in Boston MA, November 2019*
-+ *Volunteer at NeurIPS 2019 and NeurIPS 2018*
-+ *EPSRC Doctoral Training studentship 2019-2022*
-+ *Award to attend and present at [Transylvanian Machine Learning Summer School 2018](https://tmlss.ro)*
-+ *[The Data Lab Scholarship 2017-2018](https://www.thedatalab.com/skills-talent/the-data-lab-msc/) awarded to 4 students from 3 quantitative programs at the University of Edinburgh, based on academic merit*
-+ *Award to attend at present at [The Machine Learning Summer School 2016](http://www.ucsp.edu.pe/ciet/mlss16/)*
-+ *Award to attend the CodiLime/DeepSense Machine Learning workshop in Warsaw 2015 as a student ambassador, providing feedback before the commercial edition of the workshop*
-+ *Award to attend the Big Data meets Machine Learning workshop at Wroclaw University of Technology 2015*
++ *A scholarship to attend the [Women Transforming Tech](https://events.quantumblack.com/womentransformingtech?gz=bfbe4e1b092031e5&guest-access-hash=NDU3NDg3MDE4fDI2OTkzOTg5NXwxNTczNDkwMTEzO2FkMWZjYTBiYzU4MjQ5NjFjNGIyYWQ0ZjRhODc2ODA1MWUzODUwMGRlOTM0YWRkZGEwYzVhZjc1YmI5NmQ3OTk=) event in Boston MA, November 2019.*
++ *EPSRC Doctoral Training studentship 2019-2022.*
++ *An award to attend and present at [Transylvanian Machine Learning Summer School 2018](https://tmlss.ro).*
++ *[The Data Lab Scholarship 2017-2018](https://www.thedatalab.com/skills-talent/the-data-lab-msc/) awarded to 4 students from 3 quantitative programs at the University of Edinburgh, based on academic merit.*
++ *An award to attend and present at [The Machine Learning Summer School 2016](http://www.ucsp.edu.pe/ciet/mlss16/).*
++ *An award to attend the CodiLime/DeepSense Machine Learning workshop in Warsaw 2015 as a student ambassador, providing feedback before the commercial edition of the workshop.*
++ *An award to attend the Big Data meets Machine Learning workshop at Wroclaw University of Technology 2015.*
 
 #### Foreign languages
 
