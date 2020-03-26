@@ -14,6 +14,8 @@ title: Publications
 
 # Peer-reviewed
 
+* Gupta<sup>\*</sup> A., **Słowik<sup>\*</sup> A.**, Hamilton W. L., Jamnik M., Holden S. B., Pal C. (2020) **Analyzing Structural Priors in Multi-Agent Communication**. *Adaptive and Learning Agents Workshop at AAMAS 2020.* 
+
 * **Słowik<sup>\*</sup> A.**, Gupta<sup>\*</sup> A., Hamilton W. L., Jamnik M., Holden S. B. (2020) **Towards Graph Representation Learning in Emergent Communication**. *Workshop on Reinforcement Learning in Games at AAAI 2020.* [arxiv](https://arxiv.org/pdf/2001.09063.pdf)
 
 * **Słowik A.**, Mangla C., Jamnik M., Holden S. B., Paulson L. C. (2019) **Bayesian Optimisation for Heuristic Configuration in Automated Theorem Proving**. *The 6th Vampire Workshop at The 22nd International Conference on Theory and Applications of Satisfiability Testing (SAT 2019), The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020). Presented as a [talk](https://www.dropbox.com/s/f3jb7z7bqrv2b3v/bo_lisbon.pdf?dl=0) at SAT 2019 (Workshop track) and as a [poster](https://www.dropbox.com/s/h374c7zko81zrmh/BO_poster-2.pdf?dl=0) at AAAI 2020 (Student Abstract track).* [proceedings](https://easychair.org/publications/paper/K7Zd) 
