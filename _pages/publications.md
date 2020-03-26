@@ -14,7 +14,7 @@ title: Publications
 
 # Peer-reviewed
 
-* Gupta<sup>\*</sup> A., **Słowik<sup>\*</sup> A.**, Hamilton W. L., Jamnik M., Holden S. B., Pal C. (2020) **Analyzing Structural Priors in Multi-Agent Communication**. *Adaptive and Learning Agents Workshop at AAMAS 2020.* 
+* Gupta<sup>\*</sup> A., **Słowik<sup>\*</sup> A.**, Hamilton W. L., Jamnik M., Holden S. B., Pal C. (2020) **Analyzing Structural Priors in Multi-Agent Communication**. *Workshop on Adaptive and Learning Agents at AAMAS 2020.* 
 
 * **Słowik<sup>\*</sup> A.**, Gupta<sup>\*</sup> A., Hamilton W. L., Jamnik M., Holden S. B. (2020) **Towards Graph Representation Learning in Emergent Communication**. *Workshop on Reinforcement Learning in Games at AAAI 2020.* [arxiv](https://arxiv.org/pdf/2001.09063.pdf)
 
