@@ -37,6 +37,6 @@ I hold an MSc with Distinction in Operational Research with Data Science from th
 
 In the meantime, I had an opportunity to intern in data science and software engineering at IBM, Architech and Barclays UK.
 
-I'm a traveller at heart: visited 35 countries and lived in five so far. On that note, I had a chance to learn four foreign languages, which allows me to throw awkward sentences in attempts at icebreaking to this day. I like reading and will try to [keep track of the books I recently enjoyed](https://www.instagram.com/reading_challenge/). I also love mountains and [Andrej Ivašković](https://www.cl.cam.ac.uk/~ai294/).
+I'm a traveller at heart: visited 35 countries and lived in five so far. On that note, I had a chance to learn four foreign languages, which allows me to throw awkward sentences in attempts at icebreaking to this day. I also love mountains and [Andrej Ivašković](https://www.cl.cam.ac.uk/~ai294/).
 
 <p style="font-size:10px;"> Contact: agnieszka [dot] slowik [at] cl [dot] cam [dot] ac [dot] uk </p>
