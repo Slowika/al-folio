@@ -10,6 +10,10 @@ description: Musings after reading (to be updated)
 
 <i><span style="background-color: #efe5de">Margaret Atwood - The Testaments</span></i>
 
+<i><span style="background-color: #efe5de">Malcolm Gladwell - Outliers: The Story of Success</span></i>
+
+<i><span style="background-color: #efe5de">Pete Walker - Complex PTSD: From Surviving to Thriving</span></i>
+
 <i><span style="background-color: #efe5de">Stephen King - On Writing: A Memoir of the Craft</span></i>
 
 <i><span style="background-color: #efe5de">Kevin Simler and Robin Hanson - The Elephant in the Brain: Hidden Motives in Everyday Life</span></i> 
