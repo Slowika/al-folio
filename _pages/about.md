@@ -31,7 +31,7 @@ I am a second-year PhD student within the [Artificial Intelligence Group](https:
 
 **Broadly, I am interested in systematic generalisation and compositionality. In my PhD, I am investigating these problems in the domains of emergent communication and visual reasoning.** 
 
-I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk). Starting from November 2019, I serve as the representative of the AI research group at the [Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum). 
+I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk). Starting from November 2019, I serve as the representative of the AI research group at the [Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum). I also represent PhD students in the [Equality and Diversity Committee](https://www.cl.cam.ac.uk/local/committees/athena-swan/) at the [Department of Computer Science and Technology](https://www.cl.cam.ac.uk/).
 
 I hold an MSc with Distinction in Operational Research with Data Science from the University of Edinburgh. In my [MSc thesis](https://www.dropbox.com/s/gvxaaxrqvkjr2np/thesis.pdf?dl=0) I proposed a new approach to relational reasoning with convolutional neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my BSc thesis I investigated probability distributions defining random projections in extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com).
 
