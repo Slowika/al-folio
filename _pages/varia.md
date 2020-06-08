@@ -9,6 +9,7 @@ description:
 
 #### Teaching experience
 
++ **Tutor** @[AI4GoodLab 2020](https://www.ai4goodlab.com/)
 + **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)
 + **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/)
 + **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/)
@@ -18,6 +19,9 @@ description:
 #### Reviewer
 
 ##### Conferences
+
++ *[Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020)](https://nips.cc/Conferences/2020/)*
++ *[The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)](https://2020.emnlp.org/)*
 + *[International Conference on Machine Learning  2020 (ICML 2020)](https://icml.cc)*
 + *[Oxbridge Women in Computer Science Conference 2020](https://oxbridgewomenincs.wixsite.com/2020)*
 
@@ -35,6 +39,7 @@ description:
 
 #### Community service
 
++ **Representant of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/)
 + **Representant of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum)
 + **Vice-president** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/)
 
