@@ -6,7 +6,7 @@ title: Publications
 
 # Preprints
 
-* Lamb A., Goyal A., **Słowik<sup>\*</sup> A.**, Beaudoin P., Mozer M., Bengio Y. (2020) **Neural Function Modules with Sparse Arguments: A Dynamic Approach to Integrating Information across Layers**. *Submitted*. 
+* Lamb A., Goyal A., **Słowik A.**, Beaudoin P., Mozer M., Bengio Y. (2020) **Neural Function Modules with Sparse Arguments: A Dynamic Approach to Integrating Information across Layers**. *Submitted*. 
 
 * **Słowik<sup>\*</sup> A.**, Gupta<sup>\*</sup> A., Hamilton W. L., Jamnik M., Holden S. B., Pal C. (2020) **Exploring Structural Inductive Biases in Emergent Communication**. *Submitted*. [arXiv](https://arxiv.org/pdf/2002.01335.pdf)
 
