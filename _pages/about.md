@@ -27,7 +27,7 @@ social: true
 
 Hi, thanks for visiting my website! My name is Agnieszka (either /aɡˈɲɛʂ.ka/ or Aga works). 
 
-I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge and a (long-term) research intern at [Mila](https://mila.quebec). I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk). My PhD supervisors are [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/). At Mila I am supervised by [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/), [Anirudh Goyal](https://anirudh9119.github.io) and [Yoshua Bengio](https://yoshuabengio.org).
+I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge and a (long-term) research intern at [Mila](https://mila.quebec). I am affiliated with [Lucy Cavendish College](https://www.lucy-cav.cam.ac.uk). My PhD supervisors are [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/). At Mila I am supervised by [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/), [Anirudh Goyal](https://anirudh9119.github.io) and [Yoshua Bengio](https://yoshuabengio.org). <a href="https://twitter.com/slowiika?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @slowiika</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Broadly, I am interested in systematic generalisation and compositionality. In my PhD, I am investigating these problems in the domains of emergent communication and visual reasoning.** 
 
