@@ -9,12 +9,18 @@ description:
 
 #### Teaching experience
 
-+ **Tutor** @[AI4GoodLab 2020](https://www.ai4goodlab.com/)
++ **Teaching assistant** @[AI4GoodLab 2020](https://www.ai4goodlab.com/)
 + **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)
 + **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/)
 + **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/)
 + **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[Slides](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)]
 + **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl)
+
+#### Talks
+
++ **Emergent Multi-Agent Communication: The story so far** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/144160)
++ **Graph Convolutional Neural Networks** @[GMUM Seminar](https://gmum.net/seminars.html) [slides](https://www.dropbox.com/s/powoh2p0qxtvqh2/gmum_tea.pdf?dl=0)
++ **Dilated DenseNets for Relational Reasoning** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/121813) [slides](https://www.dropbox.com/s/bu3umc7np5scz57/AI_lunch.pdf?dl=0)
 
 #### Reviewer
 
@@ -27,6 +33,7 @@ description:
 
 ##### Workshops
 
++ *[ICML 2020 Workshop on Graph Representation Learning and Beyond (GRL+)](https://grlplus.github.io/)*
 + *[AIDBEI 2020: AAAI 2020 Diversity Workshop: Mentoring Students from Underserved Populations](http://kdd.cs.ksu.edu/Workshops/AAAI-2020/)*
 + *[Graph Representation Learning Workshop at NeurIPS 2019](https://grlearning.github.io/pcom/)*
 + *[13th Women in Machine Learning Workshop (WiML 2018), co-located with NeurIPS 2018](https://wimlworkshop.org/2018/)*
@@ -39,8 +46,8 @@ description:
 
 #### Community service
 
-+ **Representant of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/)
-+ **Representant of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum)
++ **Representative of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/)
++ **Representative of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum)
 + **Vice-president** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/)
 
 #### Panelist
